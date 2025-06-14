@@ -7,7 +7,6 @@ This is a simple Python scrip that attempts to resolve a given list of subdomain
 Features:
 
  Pure Python — no external libraries required  
- Educational — perfect for **college freshmen or beginners**  
  Allows you to quickly discover which subdomains exist under a domain (like `example.com`)  
 
 Requirements:
